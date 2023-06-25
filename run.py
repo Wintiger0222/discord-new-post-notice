@@ -609,4 +609,4 @@ async def on_ready():
 #async def hello(message):
 #    await message.channel.send('Hi!')
  
-bot.run('MTEyMTM4NjgxNTI3OTA3MTI4Mg.GTa4-y.C2KjRYv1f06lm7ArdEgg45N1GMC_saLqZfiJXw')
+bot.run(Token)
